@@ -1,30 +1,30 @@
-## 变更说明
+## Description
 
-请简要说明这个 PR 做了什么、为什么需要它，以及它关联的 Issue。
+Please include a summary of the change and which issue is fixed. Please also include relevant motivation and context.
 
-关联 Issue：无 / #编号
+Fixes # (issue)
 
-## 变更类型
+## Type of Change
 
-请删除不适用的选项：
+Please delete options that are not relevant.
 
-- [ ] Bug 修复
-- [ ] 新功能
-- [ ] 破坏性变更
-- [ ] 文档更新
-- [ ] 重构或性能优化
-- [ ] 其他
+- [ ] Bug fix
+- [ ] New feature
+- [ ] Breaking change
+- [ ] Documentation update
+- [ ] Refactor / Performance improvement
+- [ ] Other
 
-## 测试方式
+## How Has This Been Tested?
 
-请说明你如何验证这次变更，包括测试命令、测试环境和结果。
+Please describe the tests that you ran to verify your changes. Provide instructions so we can reproduce. Include relevant details for your test configuration.
 
-## 检查清单
+## Checklist
 
-- [ ] 我的代码遵循项目现有风格
-- [ ] 我已自行审查代码
-- [ ] 我已补充必要注释，尤其是复杂逻辑
-- [ ] 我已更新相关文档
-- [ ] 我的改动没有引入新的警告
-- [ ] 我已添加或更新测试
-- [ ] 本地测试通过
+- [ ] My code follows the style guidelines of this project
+- [ ] I have performed a self-review of my own code
+- [ ] I have commented my code, particularly in hard-to-understand areas
+- [ ] I have made corresponding changes to the documentation
+- [ ] My changes generate no new warnings
+- [ ] I have added tests that prove my fix is effective or that my feature works
+- [ ] New and existing unit tests pass locally with my changes

@@ -1,33 +1,32 @@
-# 安全政策
+# Security Policy
 
-## 支持范围
+## Supported Versions
 
-当前仅最新发布版本会获得安全更新。
+Currently, only the latest release is supported with security updates.
 
-| 版本 | 是否支持安全更新 |
-| ---- | ---------------- |
-| latest | 是 |
+| Version | Supported          |
+| ------- | ------------------ |
+| latest  | :white_check_mark: |
 
-## 报告漏洞
+## Reporting a Vulnerability
 
-请不要通过公开 Issue 报告安全漏洞。
+Please do not report security vulnerabilities through public GitHub issues.
 
-优先使用对应仓库的 GitHub 私密漏洞报告功能：
+Instead, please use GitHub's private vulnerability reporting feature for the repository:
 
-1. 打开对应仓库
-2. 进入 `Security`
-3. 选择 `Advisories`
-4. 点击 `Report a vulnerability`
+1. Go to the repository
+2. Click on `Security`
+3. Select `Advisories`
+4. Click `Report a vulnerability`
 
-如果该仓库未启用私密漏洞报告，请通过 GitHub 个人主页上列出的公开联系方式私下联系维护者：
-
+If private vulnerability reporting is not enabled for the repository, please contact the maintainers privately via the public contact information listed on the GitHub profile:
 https://github.com/LelelelingStudio
 
-请在报告中包含：
+Please include:
 
-- 漏洞影响范围
-- 复现步骤或概念验证
-- 受影响版本
-- 可能的修复建议（如有）
+- A description of the vulnerability and its impact
+- Steps to reproduce or a proof of concept
+- Affected versions
+- Potential fixes (if any)
 
-维护者会在收到报告后尽快确认，并以修复优先为原则处理。请在修复发布前避免公开披露漏洞细节。
+Maintainers will acknowledge the report as soon as possible and prioritize a fix. Please avoid public disclosure until a fix is released.

@@ -1,21 +1,20 @@
-# 支持说明
+# Support
 
-如果你在使用本账号下的开源项目时遇到问题，可以通过以下方式获取帮助。
+If you need help with projects under this account, here are a few ways to get support.
 
-## 先看文档
+## Read the Documentation
 
-请先阅读对应仓库的 `README.md`、文档目录和已有 Issue。很多常见问题已经在那里得到解答。
+Please check the repository's `README.md`, the `docs` directory, and existing issues first. Many common questions are already answered there.
 
-## 提交 Issue
+## Open an Issue
 
-如果确认是 Bug 或有明确的功能请求，请使用对应仓库的 Issue 模板提交。提交前请先搜索是否已有相同问题。
+If you have confirmed a bug or have a clear feature request, please use the respective repository's Issue templates. Search existing issues before opening a new one.
 
-## 参与讨论
+## Discussions
 
-如果对应仓库启用了 Discussions，可以在 Discussions 中提问和参与社区讨论。没有启用 Discussions 的仓库，请使用 Issue。
+If the repository has Discussions enabled, you can ask questions and participate in community discussions there. For repositories without Discussions, please use Issues.
 
-## 私下联系
+## Private Contact
 
-涉及安全漏洞、行为准则举报或其他不适合公开讨论的事项，请通过 GitHub 个人主页上列出的公开联系方式私下联系维护者：
-
+For security vulnerabilities, Code of Conduct violations, or other sensitive matters not suitable for public discussion, please contact the maintainers privately via the public contact information listed on the GitHub profile:
 https://github.com/LelelelingStudio

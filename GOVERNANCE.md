@@ -1,33 +1,33 @@
-# 治理说明
+# Governance
 
-本文档说明 LelelelingStudio 账号下开源项目的治理方式。
+This document outlines the governance model for open-source projects under the LelelelingStudio account.
 
-## 角色
+## Roles
 
-### 用户
+### Users
 
-用户是使用项目的人。用户的反馈、Bug 报告和功能建议是项目改进的重要来源。
+Users are the people who use the projects. Their feedback, bug reports, and feature requests are the most important drivers for improvement.
 
-### 贡献者
+### Contributors
 
-贡献者通过提交 Issue、改进文档、提交代码、参与讨论等方式为项目做出贡献。任何人都可以成为贡献者，没有固定门槛。
+Contributors are community members who contribute in concrete ways, such as reporting issues, improving documentation, submitting code, or participating in discussions. Anyone can become a contributor.
 
-### 维护者
+### Maintainers
 
-维护者是对项目持续投入、负责审查贡献并推动项目方向的人。维护者负责：
+Maintainers are individuals who have shown ongoing dedication to the project. They are responsible for:
 
-- 审查 Pull Request
-- 管理 Issue 和讨论
-- 维护版本和发布
-- 执行行为准则
-- 决定项目路线图
+- Reviewing Pull Requests
+- Managing Issues and discussions
+- Maintaining releases
+- Enforcing the Code of Conduct
+- Deciding on the project roadmap
 
-## 决策方式
+## Decision Making
 
-日常决策由维护者根据项目目标和社区反馈做出。重大变更应先在 Issue 或 Discussion 中公开讨论，给予社区合理的反馈时间。
+Day-to-day decisions are made by Maintainers based on project goals and community feedback. Major changes should first be discussed publicly in an Issue or Discussion to allow reasonable time for community feedback.
 
-如果维护者之间无法达成共识，由项目主要负责人做最终决定。涉及行为准则执行的敏感事项不公开讨论。
+If consensus cannot be reached among Maintainers, the primary project owner makes the final decision. Sensitive matters regarding Code of Conduct enforcement are not discussed publicly.
 
-## 变更
+## Changes
 
-本治理说明可能随项目发展调整。重大调整会在对应仓库中公开说明。
+This governance document may be adjusted as the project evolves. Significant changes will be communicated publicly in the respective repository.

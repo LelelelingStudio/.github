@@ -1,39 +1,31 @@
 ---
-name: Bug 报告
-about: 报告一个问题，帮助我们改进
+name: Bug report
+about: Create a report to help us improve
+title: ''
 labels: bug
+assignees: ''
 ---
 
-## 问题描述
+**Describe the bug**
+A clear and concise description of what the bug is.
 
-请清晰、简洁地描述这个 Bug。
+**To Reproduce**
+Steps to reproduce the behavior:
+1. Go to '...'
+2. Click on '....'
+3. Scroll down to '....'
+4. See error
 
-## 复现步骤
+**Expected behavior**
+A clear and concise description of what you expected to happen.
 
-1. 
-2. 
-3. 
-4. 
+**Screenshots/Logs**
+If applicable, add screenshots or logs to help explain your problem.
 
-## 期望行为
+**Environment:**
+ - OS: [e.g. iOS]
+ - Browser/Runtime: [e.g. chrome, node]
+ - Version: [e.g. 22]
 
-请描述你期望发生什么。
-
-## 实际行为
-
-请描述实际发生了什么，包括错误信息或日志。
-
-## 截图或日志
-
-如果适用，请粘贴截图或相关日志。
-
-## 运行环境
-
-- 操作系统：
-- 浏览器或运行时：
-- 版本：
-- 其他相关环境：
-
-## 补充信息
-
-请添加其他有助于定位问题的上下文。
+**Additional context**
+Add any other context about the problem here.

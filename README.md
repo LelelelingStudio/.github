@@ -1,16 +1,16 @@
 # .github
 
-本仓库用于存放 LelelelingStudio 账号下各仓库的默认社区健康文件。
+This repository contains default community health files for repositories owned by LelelelingStudio.
 
-当某个仓库没有单独配置对应的社区健康文件时，GitHub 会使用本仓库中的默认版本。当前包含：
+When a repository does not have its own version of these files, GitHub will automatically use the defaults from this repository. Currently included:
 
-- 行为准则
-- 贡献指南
-- 治理说明
-- 安全政策
-- 支持说明
-- 赞助配置
-- Issue 模板
-- Pull Request 模板
+- Code of Conduct
+- Contributing Guidelines
+- Governance
+- Security Policy
+- Support Guidelines
+- Funding Configuration
+- Issue Templates
+- Pull Request Template
 
-注意：`LICENSE` 和每个仓库自己的 `README.md` 不会通过本仓库全局继承，仍需在每个仓库中单独配置。
+Note: `LICENSE` and repository-specific `README.md` files cannot be inherited globally and must be added to each repository individually.

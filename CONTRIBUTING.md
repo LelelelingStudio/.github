@@ -1,58 +1,57 @@
-# 贡献指南
+# Contributing Guidelines
 
-感谢你愿意为本账号下的开源项目做出贡献。
+Thank you for your interest in contributing to projects under this account!
 
-## 目录
+## Table of Contents
 
-- [提问前](#提问前)
-- [报告 Bug](#报告-bug)
-- [建议新功能](#建议新功能)
-- [第一次贡献代码](#第一次贡献代码)
-- [提交信息规范](#提交信息规范)
+- [Before You Ask](#before-you-ask)
+- [Reporting Bugs](#reporting-bugs)
+- [Suggesting Enhancements](#suggesting-enhancements)
+- [Your First Code Contribution](#your-first-code-contribution)
+- [Commit Message Styleguide](#commit-message-styleguide)
 
-## 提问前
+## Before You Ask
 
-请先阅读对应仓库的 `README.md` 和已有 Issue，确认问题没有被回答过。提问时请提供足够的上下文：操作系统、运行环境、版本号、复现步骤和相关日志。
+Please read the repository's `README.md` and existing issues first to ensure your question has not already been answered. When asking, provide sufficient context: OS, environment, version, steps to reproduce, and relevant logs.
 
-## 报告 Bug
+## Reporting Bugs
 
-提交 Bug 前请先搜索已有 Issue。新建 Bug 报告时请尽量包含：
+Before creating a bug report, please search existing issues. When creating a new one, include:
 
-- 问题描述
-- 复现步骤
-- 期望行为
-- 实际行为
-- 截图或日志（如适用）
-- 运行环境信息
+- A clear and descriptive title
+- Steps to reproduce the behavior
+- Expected behavior vs. actual behavior
+- Screenshots or logs (if applicable)
+- Environment details (OS, browser/runtime, version)
 
-请使用对应仓库的 Bug 报告模板。
+Please use the Bug Report template provided.
 
-## 建议新功能
+## Suggesting Enhancements
 
-提交功能建议前请先搜索已有 Issue。建议内容应说明：
+Before suggesting a feature, search existing issues to see if it has already been requested. Your suggestion should explain:
 
-- 这个功能解决什么问题
-- 你期望的行为
-- 你考虑过的替代方案
-- 其他相关上下文
+- What problem this feature solves
+- The expected behavior
+- Alternative solutions you've considered
+- Any additional context
 
-请使用对应仓库的功能请求模板。
+Please use the Feature Request template provided.
 
-## 第一次贡献代码
+## Your First Code Contribution
 
-不确定从哪里开始？可以在对应仓库的 Issues 中筛选 `beginner` 或 `help-wanted` 标签。领取 Issue 前请先留言说明你准备处理，避免重复劳动。
+Unsure where to begin? Look for issues labeled `beginner` or `help-wanted`. Please comment on the issue to indicate you are working on it before submitting a Pull Request.
 
-提交 Pull Request 前请：
+Before submitting a PR, ensure you:
 
-1. 从最新主分支创建功能分支
-2. 保持改动聚焦，避免无关格式化
-3. 补充或更新必要文档
-4. 运行现有测试
-5. 在 PR 描述中关联相关 Issue
+1. Create a feature branch from the latest main branch
+2. Keep changes focused and avoid unrelated formatting changes
+3. Update relevant documentation
+4. Run existing tests
+5. Link to the relevant issue in the PR description
 
-## 提交信息规范
+## Commit Message Styleguide
 
-- 使用现在时，例如 `Add feature`，不要用 `Added feature`
-- 使用祈使语气，例如 `Move cursor to...`，不要用 `Moves cursor to...`
-- 第一行控制在 72 个字符以内
-- 必要时在正文中引用 Issue 和 PR 编号
+- Use the present tense ("Add feature", not "Added feature")
+- Use the imperative mood ("Move cursor to...", not "Moves cursor to...")
+- Limit the first line to 72 characters or less
+- Reference issues and pull requests liberally after the first line
