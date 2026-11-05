@@ -12,6 +12,7 @@ Users are the people who use the projects. Their feedback, bug reports, and feat
 
 Contributors are community members who contribute in concrete ways, such as reporting issues, improving documentation, submitting code, or participating in discussions. Anyone can become a contributor.
 
+
 ### Maintainers
 
 Maintainers are individuals who have shown ongoing dedication to the project. They are responsible for:
